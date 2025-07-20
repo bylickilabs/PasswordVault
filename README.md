@@ -40,3 +40,29 @@ The application encrypts any user-provided password and displays both the encryp
 ```yarn
 javac PasswordVault.java
 ```
+
+<br>
+
+---
+
+<br>
+
+2. Run the program
+
+```yarn
+java PasswordVault
+```
+
+<br>
+
+---
+
+<br>
+
+🔐 Secure Password Vault
+
+```yarn
+Enter password to encrypt: mySuperSecret123
+Encrypted password: 4T1Gc4b3YZ2Ej1If1hA7RQ==
+Decrypted password: mySuperSecret123
+```
