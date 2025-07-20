@@ -66,3 +66,12 @@ Enter password to encrypt: mySuperSecret123
 Encrypted password: 4T1Gc4b3YZ2Ej1If1hA7RQ==
 Decrypted password: mySuperSecret123
 ```
+
+<br>
+
+---
+
+<br>
+
+📄 License
+MIT License – [LICENSE](LICENSE)
