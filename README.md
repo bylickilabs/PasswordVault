@@ -1,5 +1,8 @@
 # 🔐 PasswordVault – AES-Encrypted Password Tool (Java)
 
+|<img width="1280" height="640" alt="PasswordVault" src="https://github.com/user-attachments/assets/05beaaa1-f825-4634-91da-d6c4efa9550d" />|
+|---|
+
 A simple and secure Java-based password vault that encrypts and decrypts strings using AES-128 encryption.  
 Perfect for demonstration, learning cryptography in Java, or building your own local password manager.
 
